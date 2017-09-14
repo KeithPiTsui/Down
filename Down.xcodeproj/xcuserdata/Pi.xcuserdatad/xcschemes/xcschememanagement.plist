@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Down-iOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>37</integer>
+		</dict>
+		<key>Down-macOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>38</integer>
+		</dict>
+		<key>Down-tvOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>39</integer>
+		</dict>
+		<key>DownTests-macOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>40</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>24F833A91E62706000590E90</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8A569F3F1E6B3E50008BE2AC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8AFAEAFA1E6E32E900E09B68</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D4201E7F1CFA5151008EEC6E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D4201E891CFA5151008EEC6E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

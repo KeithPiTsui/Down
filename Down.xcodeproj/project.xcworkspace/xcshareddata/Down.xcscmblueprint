@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "93283886EC4825DF8E5FE1458E1E4238DD692370",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "93283886EC4825DF8E5FE1458E1E4238DD692370" : 9223372036854775807,
+    "445A1697CFE660BF77E849D6FE1F787AAED558F9" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2CE6AC4B-C5E2-4CC2-9640-EF994E93A06E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "93283886EC4825DF8E5FE1458E1E4238DD692370" : "Down\/",
+    "445A1697CFE660BF77E849D6FE1F787AAED558F9" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Down",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Down.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/KeithPiTsui\/GHClient.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "445A1697CFE660BF77E849D6FE1F787AAED558F9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iwasrobbed\/Down.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "93283886EC4825DF8E5FE1458E1E4238DD692370"
+    }
+  ]
+}
